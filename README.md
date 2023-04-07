@@ -1,3 +1,3 @@
-## JS_API
+# JS_API
 
 Mini-JavaScript-Projects through API's

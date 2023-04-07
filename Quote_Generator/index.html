@@ -8,10 +8,19 @@
     <title>Quote Generator</title>
   </head>
   <body class="bg-blue-500">
-    <div class="wrapper w-96 border-2 border-white">
-        <div class="container w-full bg-blue-500 px-10 py-10 shadow-xl shadow-blue-700">
-
-        </div>
+    <div
+      class="wrapper w-[400px] absolute -translate-x-2/4 -translate-y-2/4 left-2/4 top-2/4"
+    >
+      <div
+        class="container w-full bg-blue-500 px-12 text-center py-10 shadow-lg shadow-blue-800 relative rounded-xl after:absolute after:w-4/5 after:bg-white after:h-[120%] after:z-[-1] after:top-[-9%] after:left-[10%]"
+      >
+        <!-- <p id="quote" class="quote text-white text-lg">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium, in.</p> -->
+        <p id="randomQuote" class="randomQuote text-white text-lg">Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim, molestias!</p>
+        <h3 id="author" class="text-white mt-5 mb-8 mx-0 font-semibold capitalize">Lorem, ipsum.</h3>
+        <button id="btn" class="bg-white border-none px-10 py-2.5 rounded-lg font-semibold text-lg text-blue-500 cursor-pointer hover:shadow-2xl hover:duration-200 transition-all">Get Quote</button>
+      </div>
     </div>
+
+    <script src="script.js"></script>
   </body>
 </html>

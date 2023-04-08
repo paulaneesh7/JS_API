@@ -163,7 +163,7 @@ p{
 
 }
 
-@media screen and (max-width: 300px){
+@media screen and (max-width: 400px){
     .search-container{
         display: flex;
         flex-direction: column;

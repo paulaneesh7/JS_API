@@ -12,7 +12,7 @@ let getQuote = async function () {
     author.innerText = data.author;
 
   } catch (err) {
-    console.log(err);
+    randomQuote.innerText = 'Sorry!! there has been some error';
   }
 };
 

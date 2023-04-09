@@ -9,6 +9,7 @@ Mini-JavaScript-Projects for practising API handling and Asynchronous JS
 * Quote Generator
 * Random Joke Generator
 * Movie Guide App
+  
   ```
   Link: movify.netlify.app
   ```

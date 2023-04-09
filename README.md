@@ -8,7 +8,10 @@ Mini-JavaScript-Projects for practising API handling and Asynchronous JS
 * Country Guide App
 * Quote Generator
 * Random Joke Generator
-* Movie Guide App (movify.netlify.app)
+* Movie Guide App
+  ```
+  Link: movify.netlify.app
+  ```
 
 
 **Refer to the img folder for viewing the above projects**
